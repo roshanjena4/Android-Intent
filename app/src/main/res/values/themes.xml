@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyIntentFilter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#42A5F5</item>
+        <item name="colorAccent">#26C6DA</item>
+        <item name="colorPrimaryDark">#29B6F6</item>
+    </style>
+
+    <style name="Theme.MyIntentFilter" parent="Base.Theme.MyIntentFilter" />
+</resources>
